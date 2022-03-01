@@ -1,7 +1,10 @@
 # Utils for Web3
 Python library to manage some fuctions of web3
 
-# Functins
+# ABI
+In the abi folder there are some abi saved in json (USDT, USDC, DAI, UNI, ...)
+
+# Functions
 - Eth balance for single address
 - Token balance for single address
 
